@@ -1,0 +1,17 @@
+{% for work in site.[page.category] %}
+    <div class="titleBox">
+        <div class="workTitle" id="{{work.order}}">
+            <h2>{{ work.title }}</h2>
+            <a href="{{work.publicationLink}}"><p>{{ work.publication }}</p></a>
+            <p>{{ work.dateString }}</p>
+        </div>
+    </div>
+    
+
+    <div class="workText">
+        {{ work.content }}
+    </div>
+{% endfor %}
+
+
+

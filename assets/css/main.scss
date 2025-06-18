@@ -1,0 +1,135 @@
+---
+---
+
+body, html{
+    // width: 100vw;
+    // height: 100vh;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    background-color: rgb(238, 238, 238);
+    font-family: "eb-garamond", serif;
+    font-weight: 100;
+    font-style: normal;
+    scroll-behavior: smooth;
+}
+
+h1{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 100;
+    margin: 0px;
+}
+
+canvas{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    top: 0px;
+    left: 0px;
+    pointer-events: none;
+}
+
+#contentBox{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    gap: 20px;
+    
+
+    a{
+        color: black;
+        font-style: normal;
+        text-decoration: none;
+    }
+
+    #nav{
+        display: grid;
+        grid-template-rows: 1fr 1fr 1fr;
+        height: calc(100% - 80px);
+        font-size: 20px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        margin-left: 40px;
+
+        #pageButtons{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        
+        // p{
+        //     font-size: 16px;
+        // }
+
+        #subscribe{
+            display: flex;
+            flex-direction: column;
+            justify-content: end;
+
+            form{
+                font-size: 16px;
+                height: min-content;
+
+                input{
+                    font-family: "eb-garamond", serif;
+                    font-size: 16px;
+                    height: 32px;
+                    width: 100%;
+                    margin-top: 8px;
+                    background-color: rgba(0,0,0,0);
+                    border: 1px solid black;
+                    border-radius: 2px;
+                }
+            }
+        }
+    }
+    .workTitle{
+            position: sticky;
+            top: 0px;
+            margin-bottom: 20px;
+            h2{
+                font-size: 20px;
+                margin: 0px;
+                font-style: italic;
+            }
+            p{
+                margin: 0px;
+            }
+        }
+
+    #textBox{
+        scrollbar-width: none;      // Firefox
+        -ms-overflow-style: none;   // IE and Edge
+
+        &::-webkit-scrollbar {      // Chrome, Safari, Opera
+            display: none;
+        }
+        height: calc(100% - 40px);
+        overflow-y: scroll;
+        font-size: 20px;
+        margin-top: 40px;
+        
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+
+        
+        .workText{
+            p{
+                margin-top: 0px;
+                margin-bottom: 20px;
+            }
+        }
+
+        
+    }
+
+    #workList{
+        font-size: 20px;
+        border-left: 1px solid black;
+        padding: 40px;
+        padding-left: 20px;
+
+        
+    }
+}

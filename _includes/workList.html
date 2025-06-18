@@ -1,0 +1,9 @@
+{% for work in site.[page.category] %}
+<a href="#{{work.order}}">
+    <div class="workTitle">
+        <h2>{{ work.title }}</h2>
+        <p>{{ work.publication }}</p>
+        <p>{{ work.dateString }}</p>
+    </div>
+</a>
+{% endfor %}
