@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://use.typekit.net/fmq4afm.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://js.supascribe.com/v1/loader/eoMP1SidSARTVDKRRkTOxfzEYqN2.js" async></script>
+    <title>Document</title>
+</head>
+<body class="book">
+    <div id="content">
+       {% include book.html %}
+    </div>
+    <script src="assets/bindery/bindery.js"></script>
+    
+    <script>
+        Bindery.makeBook({  
+            content: '#content',
+            rules: [
+                Bindery.PageBreak({ selector: 'h2', position: 'before' }),
+                Bindery.FullBleedSpread({ selector: '.big-figure' }),
+            ],
+        });
+    </script>
+    
+    <script src="assets/js/scrambler.js"></script>
+    
+</body>
+</html>

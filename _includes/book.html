@@ -1,0 +1,44 @@
+{% for work in site.fiction %}
+    <div class="titleBox">
+        <div class="workTitle" id="{{work.order}}">
+            <h2>{{ work.title }}</h2>
+            <a href="{{work.publicationLink}}"><p>{{ work.publication }}</p></a>
+            <p>{{ work.dateString }}</p>
+        </div>
+    </div>
+    
+
+    <div class="workText">
+        {{ work.content }}
+    </div>
+{% endfor %}
+
+{% for work in site.poetry %}
+    <div class="titleBox">
+        <div class="workTitle" id="{{work.order}}">
+            <h2>{{ work.title }}</h2>
+            <a href="{{work.publicationLink}}"><p>{{ work.publication }}</p></a>
+            <p>{{ work.dateString }}</p>
+        </div>
+    </div>
+    
+
+    <div class="workText">
+        {{ work.content }}
+    </div>
+{% endfor %}
+
+{% for work in site.essay-criticism %}
+    <div class="titleBox">
+        <div class="workTitle" id="{{work.order}}">
+            <h2>{{ work.title }}</h2>
+            <a href="{{work.publicationLink}}"><p>{{ work.publication }}</p></a>
+            <p>{{ work.dateString }}</p>
+        </div>
+    </div>
+    
+
+    <div class="workText">
+        {{ work.content }}
+    </div>
+{% endfor %}
