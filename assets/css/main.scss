@@ -30,6 +30,8 @@ canvas{
     pointer-events: none;
 }
 
+
+
 #contentBox{
     height: 100vh;
     display: grid;
@@ -41,6 +43,9 @@ canvas{
         color: black;
         font-style: normal;
         text-decoration: none;
+    }
+    a:hover{
+        color: blue;  
     }
 
     #nav{
@@ -67,24 +72,59 @@ canvas{
             flex-direction: column;
             justify-content: end;
 
+            p{
+                font-size: 16px;
+                margin-bottom: 8px;
+            }
+            p.error, p.success{
+                font-family: "eb-garamond", serif;
+                font-size: 16px;
+            }
+
             form{
                 font-size: 16px;
                 height: min-content;
+                border: 1px solid black;
+                
+
 
                 input{
                     font-family: "eb-garamond", serif;
+                    color: black;
                     font-size: 16px;
-                    height: 32px;
+                    // height: 100%;
                     width: 100%;
-                    margin-top: 8px;
+                    margin-top: 0px;
                     background-color: rgba(0,0,0,0);
-                    border: 1px solid black;
-                    border-radius: 2px;
+                    padding: 8px;
+                    padding-top: 4px;
+                    padding-bottom: 4px;
+                    
+                }
+            }
+            .csw-container{
+                width: 100%;
+                flex-wrap: nowrap;
+                border: none;
+
+                button{
+                    font-family: "eb-garamond", serif;
+                    font-weight: 100;
+                    font-size: 16px;
+                    background-color: rgb(238, 238, 238);
+                    color: black;
+                    padding: 8px;
+                    padding-top: 4px;
+                    padding-bottom: 4px;
+                }
+                button:hover{
+                    color: blue;
                 }
             }
         }
     }
     .workTitle{
+
             position: sticky;
             top: 0px;
             margin-bottom: 20px;
