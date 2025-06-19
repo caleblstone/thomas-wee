@@ -23,7 +23,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "essay-criticism"
     label: "Essays and Criticism" 
-    folder: "collectionsFolder/_essay-criticism"
+    folder: "contentFolder/_essay-criticism"
     create: true
     slug: "Essay-Criticism-{{order}}-{{slug}}"
     fields:
@@ -35,7 +35,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown", required: false }
   - name: "fiction"
     label: "Fiction" 
-    folder: "collectionsFolder/_fiction"
+    folder: "contentFolder/_fiction"
     create: true
     slug: "Fiction-{{order}}-{{slug}}"
     fields:
@@ -47,7 +47,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown", required: false }
   - name: "poetry"
     label: "Poetry" 
-    folder: "collectionsFolder/_poetry"
+    folder: "contentFolder/_poetry"
     create: true
     slug: "Poetry-{{order}}-{{slug}}"
     fields:
