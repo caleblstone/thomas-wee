@@ -67,6 +67,7 @@ canvas{
         margin-bottom: 40px;
         margin-left: 40px;
         min-width: 250px;
+        
 
 
         #pageButtons{
@@ -194,4 +195,73 @@ canvas{
 #content{
     // height: 100vh;
     // overflow-y: scroll;
+}
+
+@media (max-width: 700px) {
+    #contentBox {
+        grid-template-columns: 1fr;
+        gap: 10px;
+        padding: 8px;
+        height: auto;
+
+        #nav {
+            margin: 0px 0 0 0;
+            min-width: unset;
+            grid-template-rows: auto;
+            height: calc(100dvh - 16px);
+        }
+
+        #bio {
+            font-size: 16px;
+            margin-top: 20px;
+        }
+
+        .workTitle {
+            position: static;
+            margin-bottom: 10px;
+            h2 {
+                font-size: 20px;
+            }
+            p{
+                font-size: 16px;
+            }
+        }
+
+        #textBox {
+            grid-template-columns: 1fr;
+            gap: 8px;
+            font-size: 20px;
+            margin-top: 20px;
+            height: auto;
+            
+            // display: none;
+            .titleBox{
+                border: 1px solid black;
+                border-radius: 2px;
+                padding-left: 16px;
+                padding-right: 16px;
+                padding-top: 8px;
+            }
+            .workText{
+                display: none;
+            }
+            .workText.visible {
+                display: block;
+                font-size: 16px;
+            }
+        }
+
+        #workList {
+            display: none;
+        }
+    }
+
+    body, html {
+        font-size: 16px;
+    }
+
+    canvas {
+        width: 100vw !important;
+        height: 100vh !important;
+    }
 }
