@@ -1,0 +1,60 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images"
+
+media_library:
+  name: uploadcare
+  config:
+    publicKey: fbb66349001efbc7e5ce
+    multiple: true
+  settings:
+    defaultOperations: 
+
+collections:
+  - name: "about"
+    label: "About" 
+    folder: "contentFolder/_about"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "essay-criticism"
+    label: "Essays and Criticism" 
+    folder: "collectionsFolder/_essay-criticism"
+    create: true
+    slug: "Essay-Criticism-{{order}}-{{slug}}"
+    fields:
+      - { label: "Order", name: "order", widget: "number", required: true }
+      - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "Publication", name: "publication", widget: "string", required: false }
+      - { label: "Publication Link", name: "publicationLink", widget: "string", required: false }
+      - { label: "dateString", name: "datestring", widget: "string", required: false}
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+  - name: "fiction"
+    label: "Fiction" 
+    folder: "collectionsFolder/_fiction"
+    create: true
+    slug: "Fiction-{{order}}-{{slug}}"
+    fields:
+      - { label: "Order", name: "order", widget: "number", required: true }
+      - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "Publication", name: "publication", widget: "string", required: false }
+      - { label: "Publication Link", name: "publicationLink", widget: "string", required: false }
+      - { label: "dateString", name: "datestring", widget: "string", required: false}
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+  - name: "poetry"
+    label: "Poetry" 
+    folder: "collectionsFolder/_poetry"
+    create: true
+    slug: "Poetry-{{order}}-{{slug}}"
+    fields:
+      - { label: "Order", name: "order", widget: "number", required: true }
+      - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "Publication", name: "publication", widget: "string", required: false }
+      - { label: "Publication Link", name: "publicationLink", widget: "string", required: false }
+      - { label: "dateString", name: "datestring", widget: "string", required: false}
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+  

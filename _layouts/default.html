@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="/assets/css/main.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://js.supascribe.com/v1/loader/eoMP1SidSARTVDKRRkTOxfzEYqN2.js" async></script>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <title>Document</title>
 </head>
 <body>
@@ -15,7 +16,9 @@
             {% include nav.html %}
         </div>
         <div id="bio">
-            is a writer, poet, and editor based in Brooklyn, New York. Contact me at <a href="mailto:thomasmarwee@gmail.com">thomasmarwee(at)gmail.com</a>
+            {% for post in site.about %}
+                {{ post.content }}
+            {% endfor %}
         </div>
         
         
