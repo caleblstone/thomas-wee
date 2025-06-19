@@ -1,4 +1,4 @@
-{% for work in site.fiction %}
+{% for work in site.fiction | sort: "order" %}
     <div class="titleBox">
         <div class="workTitle" id="{{work.order}}">
             <h2>{{ work.title }}</h2>
@@ -13,7 +13,7 @@
     </div>
 {% endfor %}
 
-{% for work in site.poetry %}
+{% for work in site.poetry | sort: "order" %}
     <div class="titleBox">
         <div class="workTitle" id="{{work.order}}">
             <h2>{{ work.title }}</h2>
@@ -28,7 +28,7 @@
     </div>
 {% endfor %}
 
-{% for work in site.essay-criticism %}
+{% for work in site.essay-criticism | sort: "order" %}
     <div class="titleBox">
         <div class="workTitle" id="{{work.order}}">
             <h2>{{ work.title }}</h2>
