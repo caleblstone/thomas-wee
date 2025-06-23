@@ -14,6 +14,41 @@ body, html{
 }
 body.book{
     overflow: visible;
+
+    h1{
+        font-size: 48px;
+        text-decoration: underline;
+        margin-bottom: 0.25in;
+    }
+    h2{
+        font-size: 32px;
+        font-weight: 100;
+        font-style: italic;
+    }
+    #titlePage{
+        h1{
+            margin-bottom: 50vh;
+        }
+    }
+    
+    .📖-page-background{
+        // background-color: #8295E1;
+    }
+
+    #content{
+        .toc-row{
+            margin-left: 0.25in;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            font-style: italic;
+
+            .num{
+                font-style: normal;
+            }
+        }
+    }
+   
 }
 
 h1{

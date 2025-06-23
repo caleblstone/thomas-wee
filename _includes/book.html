@@ -1,20 +1,62 @@
+<div id="titlePage">
+    <h1><em>Collected Works</em></h1>
+    <p>Thomas Mar Wee</p>
+</div>
+
+
+<h1>Table of Contents</h1>
+Fiction
+    {% for work in site.fiction | sort: "order" %}
+        <nav class='toc'>
+            <a href='#{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", ""| replace: ":", ""}}'>
+                {{ work.title }}
+            </a>
+        </nav>
+    {% endfor %}
+
+Poetry
+    {% for work in site.poetry | sort: "order" %}
+        <nav class='toc'>
+            <a href='#{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", "" | replace: ":", ""}}'>
+                {{ work.title }}
+            </a>
+        </nav>
+    {% endfor %}
+
+Essays & Criticism
+    {% for work in site.essay-criticism | sort: "order" %}
+        <nav class='toc'>
+            <a href='#{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", ""| replace: ":", ""}}'>
+                {{ work.title }}
+            </a>
+        </nav>
+    {% endfor %}
+
+
+
+<h1 id="Fiction">Fiction</h1>
+
+
 {% for work in site.fiction | sort: "order" %}
-    <div class="titleBox">
+    <div class="titleBox" id='{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", "" | replace: ":", ""}}'>
         <div class="workTitle" id="{{work.order}}">
             <h2>{{ work.title }}</h2>
-            <a href="{{work.publicationLink}}"><p>{{ work.publication }}</p></a>
-            <p>{{ work.dateString }}</p>
         </div>
     </div>
-    
 
     <div class="workText">
         {{ work.content }}
+        <p>***</p>
+
+        {% unless work.publicationLink == blank %}
+            <p>Published in <a href="{{work.publicationLink}}">{{ work.publication }}</a> in {{ work.dateString }}</p>
+        {% endunless %}
     </div>
 {% endfor %}
 
+<h1 id="poetry">Poetry</h1>
 {% for work in site.poetry | sort: "order" %}
-    <div class="titleBox">
+    <div class="titleBox" id='{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", "" | replace: ":", ""}}'>
         <div class="workTitle" id="{{work.order}}">
             <h2>{{ work.title }}</h2>
             <a href="{{work.publicationLink}}"><p>{{ work.publication }}</p></a>
@@ -28,8 +70,9 @@
     </div>
 {% endfor %}
 
+<h1 id="essay-criticism">Essays & Criticism</h1>
 {% for work in site.essay-criticism | sort: "order" %}
-    <div class="titleBox">
+    <div class="titleBox" id='{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", "" | replace: ":", ""}}'>
         <div class="workTitle" id="{{work.order}}">
             <h2>{{ work.title }}</h2>
             <a href="{{work.publicationLink}}"><p>{{ work.publication }}</p></a>

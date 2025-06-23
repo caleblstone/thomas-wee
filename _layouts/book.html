@@ -16,13 +16,35 @@
     <script src="assets/bindery/bindery.js"></script>
     
     <script>
+        
         Bindery.makeBook({  
             content: '#content',
+            pageSetup: {
+                size: { width: '5.5in', height: '8.5in' },
+                margin: { top: '0.75in', inner: '0.75in', outer: '0.5in', bottom: '0.75in' },
+            },
             rules: [
                 Bindery.PageBreak({ selector: 'h2', position: 'before' }),
-                Bindery.FullBleedSpread({ selector: '.big-figure' }),
+                Bindery.PageBreak({ selector: 'h1', position: 'before' }),
+                Bindery.RunningHeader({
+                    render: (pageInfo) => pageInfo.isLeft
+                    ? `${pageInfo.number} · ${pageInfo.heading.h1}`
+                    : `<em>${pageInfo.heading.h2}</em> · ${pageInfo.number}`
+                }),
+                Bindery.PageReference({
+                    selector: '.toc a',
+                    replace: (element, number) => {
+                        let row = document.createElement('div');
+                        row.classList.add('toc-row');
+                        row.innerHTML = element.textContent;
+                        row.innerHTML += `<span class='num'>${number}</span>`;
+                        return row;
+                    }
+                }),
+
             ],
         });
+ 
     </script>
     
     <script src="assets/js/scrambler.js"></script>
