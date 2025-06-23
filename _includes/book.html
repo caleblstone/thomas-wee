@@ -6,7 +6,7 @@
 
 <h1>Table of Contents</h1>
 Fiction
-    {% for work in site.fiction | sort: "order" %}
+    {% for work in site.fiction reversed | sort: "order" %}
         <nav class='toc'>
             <a href='#{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", ""| replace: ":", ""}}'>
                 {{ work.title }}
@@ -15,7 +15,7 @@ Fiction
     {% endfor %}
 
 Poetry
-    {% for work in site.poetry | sort: "order" %}
+    {% for work in site.poetry reversed | sort: "order" %}
         <nav class='toc'>
             <a href='#{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", "" | replace: ":", ""}}'>
                 {{ work.title }}
@@ -24,7 +24,7 @@ Poetry
     {% endfor %}
 
 Essays & Criticism
-    {% for work in site.essay-criticism | sort: "order" %}
+    {% for work in site.essay-criticism reversed | sort: "order" %}
         <nav class='toc'>
             <a href='#{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", ""| replace: ":", ""}}'>
                 {{ work.title }}
@@ -37,7 +37,7 @@ Essays & Criticism
 <h1 id="Fiction">Fiction</h1>
 
 
-{% for work in site.fiction | sort: "order" %}
+{% for work in site.fiction reversed | sort: "order" %}
     <div class="titleBox" id='{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", "" | replace: ":", ""}}'>
         <div class="workTitle" id="{{work.order}}">
             <h2>{{ work.title }}</h2>
@@ -55,7 +55,7 @@ Essays & Criticism
 {% endfor %}
 
 <h1 id="poetry">Poetry</h1>
-{% for work in site.poetry | sort: "order" %}
+{% for work in site.poetry reversed | sort: "order" %}
     <div class="titleBox" id='{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", "" | replace: ":", ""}}'>
         <div class="workTitle" id="{{work.order}}">
             <h2>{{ work.title }}</h2>
@@ -71,7 +71,7 @@ Essays & Criticism
 {% endfor %}
 
 <h1 id="essay-criticism">Essays & Criticism</h1>
-{% for work in site.essay-criticism | sort: "order" %}
+{% for work in site.essay-criticism reversed | sort: "order" %}
     <div class="titleBox" id='{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", "" | replace: ":", ""}}'>
         <div class="workTitle" id="{{work.order}}">
             <h2>{{ work.title }}</h2>

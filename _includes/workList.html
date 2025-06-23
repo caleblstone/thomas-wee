@@ -1,4 +1,4 @@
-{% for work in site.[page.category] | sort: "order" %}
+{% for work in site.[page.category] reversed | sort: "order" %}
 <a href="#{{work.order}}">
     <div class="workTitle">
         <h2>{{ work.title }}</h2>
