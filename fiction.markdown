@@ -3,5 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: work
+title: "Fiction"
 category: fiction
+description: "Thomas Mar Wee's fiction portfolio"
 ---
