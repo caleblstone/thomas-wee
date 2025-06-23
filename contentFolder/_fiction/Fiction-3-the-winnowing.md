@@ -1,5 +1,5 @@
 ---
-order: 3
+order: 1
 title: The Winnowing
 publication: Quarto
 publicationLink: https://quartomagazine.com/fiction/winnowing
