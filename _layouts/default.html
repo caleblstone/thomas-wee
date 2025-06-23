@@ -17,7 +17,8 @@
         </div>
         <div id="bio">
             {% for post in site.about %}
-                {{ post.content }}
+                <div id="shortBio">{{ post.shortBio }}</div>
+                <div id="longBio">{{ post.longBio }}</div>
             {% endfor %}
         </div>
         
@@ -25,6 +26,7 @@
     </div>
     <script src="assets/js/script.js"></script>
     <script src="assets/js/scrambler.js"></script>
+    <script src="assets/js/bioLengthener.js"></script>
     
 </body>
 </html>

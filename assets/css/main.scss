@@ -96,6 +96,11 @@ canvas{
         p{
             margin: 0px;
         }
+
+        #longBio{
+            display: none;
+        }
+
     }
 
     #nav{
@@ -251,16 +256,27 @@ canvas{
         font-size: 20px;
         border-left: 1px solid black;
         padding: 40px;
+        padding-bottom: 0px;
         padding-left: 20px;
+        height: calc(100vh - 40px);
+        overflow-y: scroll;
 
+            a{
+                color: grey;
+                transition: color 0.1s;
+            }
+            a.active-work{
+                color: black;
+            }
+            a:hover{
+                color: blue;
+            }
+        }
         
     }
-}
 
-#content{
-    // height: 100vh;
-    // overflow-y: scroll;
-}
+
+
 
 @media (max-width: 700px) {
     #contentBox {
