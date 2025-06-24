@@ -5,15 +5,13 @@ publication: Quarto
 publicationLink: https://quartomagazine.com/poetry/2020/11/20/new-and-used-poems-by-thomas-mar-wee
 dateString: November 2020
 ---
-
-
-
-
 ![](https://ucarecdn.com/0bfe4141-d260-40de-9032-84eb8630e6e8/)
 
 ![](https://ucarecdn.com/1bf8232e-1ded-405c-8d7d-0da009763bd5/)
 
 ![](https://ucarecdn.com/499c24ce-a78f-402f-8457-4d26df070922/)
+
+<pre>
 
 ***Generation Loss***
 
@@ -198,3 +196,62 @@ For many Chinese men with fake IDs, it's "pieces of paper." At some point in the
 Our names have been moved.
 
 <br>
+
+<br>
+
+**signi • fication**
+
+*After Deleuze*
+
+<br><br>
+
+what’s in a name? —
+
+\[the ghosts of ancestors, immigration, flight] buried in the encrusted syllables
+
+of imperfect transliteration
+
+Diaspora & Dispersal, or let’s call it entropy:
+
+culture neutered+*naturalized* 
+
+(read: ANESTHETIZED)
+
+to a grey death
+
+\[if my family gave me a Chinese name it was never written down] 
+
+<br>
+
+call it genealogy,
+
+<br>
+
+traced through the contours of your tongue 
+
+as it dribbles
+
+            out
+
+      dactyls // spondees // syllables 
+twitching out my name which you 
+whisper into my spine
+<br>
+hold it in your lips and feel it rise 
+somewhere in your gullet,bristling,
+near the sternum.
+A viscous sound / a raised fist
+like Adam, you point and name things 
+making word flesh
+<br>
+someone said
+that the body is our first language
+the fetus in the womb, a floating signifier
+<br>
+Or maybe to be seen
+the same, nearly, as hearing your name 
+spoken by the beloved
+    (transcendence, signified)
+the effect of being held, momentarily naked&warm, in the lover’s mouth
+
+</pre>
