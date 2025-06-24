@@ -11,7 +11,6 @@ dateString: November 2020
 
 ![](https://ucarecdn.com/499c24ce-a78f-402f-8457-4d26df070922/)
 
-<pre>
 
 ***Generation Loss***
 
@@ -254,4 +253,3 @@ spoken by the beloved
     (transcendence, signified)
 the effect of being held, momentarily naked&warm, in the lover’s mouth
 
-</pre>
