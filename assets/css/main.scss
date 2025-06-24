@@ -238,7 +238,8 @@ canvas{
         .workText{
             p{
                 margin-top: 0px;
-                margin-bottom: 20px;
+                margin-bottom: 0px;
+                line-height: 24px;
             }
             svg{
                 margin-top: 40px;
@@ -246,6 +247,12 @@ canvas{
                 path{
                     stroke-width: .5px;
                 }
+            }
+            img{
+                width: 100%;
+            }
+            strong{
+                font-weight: 800;
             }
         }
 
