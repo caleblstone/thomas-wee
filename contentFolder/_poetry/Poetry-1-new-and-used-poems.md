@@ -11,7 +11,6 @@ dateString: November 2020
 
 ![](https://ucarecdn.com/499c24ce-a78f-402f-8457-4d26df070922/)
 
-
 ***Generation Loss***
 
 *This poem was written in English and translated into Chinese using an online translation program. The result was translated back into English. This process was repeated three times.*
@@ -230,9 +229,10 @@ traced through the contours of your tongue
 
 as it dribbles
 
-            out
+<span>out
 
-      dactyls // spondees // syllables 
+dactyls // spondees // syllables
+
 twitching out my name which you 
 whisper into my spine
 <br>
@@ -252,4 +252,3 @@ the same, nearly, as hearing your name
 spoken by the beloved
     (transcendence, signified)
 the effect of being held, momentarily naked&warm, in the lover’s mouth
-
