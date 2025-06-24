@@ -32,6 +32,7 @@ collections:
       - { label: "Publication", name: "publication", widget: "string", required: false }
       - { label: "Publication Link", name: "publicationLink", widget: "string", required: false }
       - { label: "dateString", name: "dateString", widget: "string", required: false}
+      - { label: "Print Only", name: "printOnly", widget: "boolean", required: false}
       - { label: "Body", name: "body", widget: "markdown", required: false }
   - name: "fiction"
     label: "Fiction" 
@@ -44,6 +45,20 @@ collections:
       - { label: "Publication", name: "publication", widget: "string", required: false }
       - { label: "Publication Link", name: "publicationLink", widget: "string", required: false }
       - { label: "dateString", name: "dateString", widget: "string", required: false}
+      - { label: "Print Only", name: "printOnly", widget: "boolean", required: false}
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+  - name: "interviews"
+    label: "Interviews" 
+    folder: "contentFolder/_interviews"
+    create: true
+    slug: "Interviews-{{order}}-{{slug}}"
+    fields:
+      - { label: "Order", name: "order", widget: "number", required: true }
+      - { label: "Title", name: "title", widget: "string", required: false }
+      - { label: "Publication", name: "publication", widget: "string", required: false }
+      - { label: "Publication Link", name: "publicationLink", widget: "string", required: false }
+      - { label: "dateString", name: "dateString", widget: "string", required: false}
+      - { label: "Print Only", name: "printOnly", widget: "boolean", required: false}
       - { label: "Body", name: "body", widget: "markdown", required: false }
   - name: "poetry"
     label: "Poetry" 
@@ -56,5 +71,6 @@ collections:
       - { label: "Publication", name: "publication", widget: "string", required: false }
       - { label: "Publication Link", name: "publicationLink", widget: "string", required: false }
       - { label: "dateString", name: "dateString", widget: "string", required: false}
+      - { label: "Print Only", name: "printOnly", widget: "boolean", required: false}
       - { label: "Body", name: "body", widget: "markdown", required: false }
   
