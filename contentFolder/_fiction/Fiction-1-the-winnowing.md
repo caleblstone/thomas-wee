@@ -1,10 +1,10 @@
 ---
-order: 1
+order: 2
 title: The Winnowing
 publication: Quarto
 publicationLink: https://quartomagazine.com/fiction/winnowing
-printOnly: true
 dateString: December 2020
+printOnly: false
 ---
 I return to the day of the threshing. It’s no banner day, not like days the others choose. When the Event unmoored us (a disruption, the scientists said, to our objective notions of temporality), people tended to travel to the notable days of their lives. Weddings, funerals, births. At the beginning, it was popular to return to the day of one’s birth. To witness the crowning. I saw it, and my children's births, and my grandchildren’s births. But at the end of my life, my birth has lost its novelty. 
 
