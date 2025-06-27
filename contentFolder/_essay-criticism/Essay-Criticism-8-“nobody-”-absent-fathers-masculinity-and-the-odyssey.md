@@ -57,7 +57,7 @@ When Odysseus finally returns to Ithaca, he comes disguised by Athena as an old 
 
 *I am that father whom your boyhood lacked*  <br>
 
-*and suffered pain for lack of. I am he.*  <br>
+*and suffered pain for lack of. I am he.*  <br><br>
 
 Odysseus weeps and embraces his son, but Telemachus, stunned by his sudden appearance after twenty years, doubts that it is really him. The return of his father is both too wonderful and too unlikely. He doubts, because he is afraid to believe such good news. Poignantly, Telemachus exclaims, “You cannot be my father Odysseus! Meddling spirits conceived this trick to twist the knife in me!” \[5]<br><br>
 
