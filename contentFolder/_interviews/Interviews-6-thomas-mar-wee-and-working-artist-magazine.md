@@ -1,6 +1,7 @@
 ---
 order: 6
-title: Thomas Mar Wee and Working Artist Magazine
+title: "Writing Beyond the Masterpiece: Thomas Mar Wee On Embodying the
+  Unromantic Writer"
 publication: Working Artist Magazine
 publicationLink: https://workingartistmag.substack.com/p/writing-beyond-the-masterpiece-thomas?r=79yoi&utm_medium=ios&triedRedirect=true
 dateString: March 2025
