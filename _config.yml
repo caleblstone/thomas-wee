@@ -18,6 +18,8 @@ collections_dir: contentFolder
 
 collections:
   - fiction
+  - interviews
   - poetry
   - essay-criticism
   - about
+
