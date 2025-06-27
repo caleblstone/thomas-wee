@@ -268,6 +268,10 @@ canvas{
         height: calc(100vh - 40px);
         overflow-y: scroll;
 
+            .workTitle{
+                position: relative;
+            }
+
             a{
                 color: grey;
                 transition: color 0.1s;

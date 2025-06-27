@@ -8,7 +8,7 @@
 Fiction
     {% for work in site.fiction reversed | sort: "order" %}
         <nav class='toc'>
-            <a href='#{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", ""| replace: ":", "" | replace: """, ""}}'>
+            <a href='#Fiction-{{ work.order}}'>
                 {{ work.title }}
             </a>
         </nav>
@@ -17,7 +17,7 @@ Fiction
 Poetry
     {% for work in site.poetry reversed | sort: "order" %}
         <nav class='toc'>
-            <a href='#{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", "" | replace: ":", "" | replace: """, ""}}'>
+            <a href='#Poetry-{{ work.order}}'>
                 {{ work.title }}
             </a>
         </nav>
@@ -26,7 +26,7 @@ Poetry
 Essays & Criticism
     {% for work in site.essay-criticism reversed | sort: "order" %}
         <nav class='toc'>
-            <a href='#{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", ""| replace: ":", "" | replace: """, ""}}'>
+            <a href='#Essay-{{ work.order }}'>
                 {{ work.title }}
             </a>
         </nav>
@@ -35,7 +35,7 @@ Essays & Criticism
 Interviews
     {% for work in site.interviews reversed | sort: "order" %}
         <nav class='toc'>
-            <a href='#{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", ""| replace: ":", "" | replace: """, ""}}'>
+            <a href='#Interviews-{{ work.order }}'>
                 {{ work.title }}
             </a>
         </nav>
@@ -47,8 +47,8 @@ Interviews
 
 
 {% for work in site.fiction reversed | sort: "order" %}
-    <div class="titleBox" id='{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", "" | replace: ":", "" | replace: """, ""}}'>
-        <div class="workTitle" id="{{work.order}}">
+    <div class="titleBox" id='{{ work.order}}'>
+        <div class="workTitle" id="Fiction-{{work.order}}">
             <h2>{{ work.title }}</h2>
         </div>
     </div>
@@ -65,7 +65,7 @@ Interviews
 
 <h1 id="poetry">Poetry</h1>
 {% for work in site.poetry reversed | sort: "order" %}
-    <div class="titleBox" id='{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", "" | replace: ":", "" | replace: """, ""}}'>
+    <div class="titleBox" id='Poetry-{{ work.order}}'>
         <div class="workTitle" id="{{work.order}}">
             <h2>{{ work.title }}</h2>
             <a href="{{work.publicationLink}}"><p>{{ work.publication }}</p></a>
@@ -81,7 +81,7 @@ Interviews
 
 <h1 id="essay-criticism">Essays & Criticism</h1>
 {% for work in site.essay-criticism reversed | sort: "order" %}
-    <div class="titleBox" id='{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", "" | replace: ":", "" | replace: """, ""}}'>
+    <div class="titleBox" id='Essay-{{ work.order}}'>
         <div class="workTitle" id="{{work.order}}">
             <h2>{{ work.title }}</h2>
             <a href="{{work.publicationLink}}"><p>{{ work.publication }}</p></a>
@@ -97,7 +97,7 @@ Interviews
 
 <h1 id="essay-criticism">Interviews</h1>
 {% for work in site.interviews reversed | sort: "order" %}
-    <div class="titleBox" id='{{ work.title | replace: " ", "-"  | replace: ",", "" | replace: "&", "" | replace: ":", "" | replace: """, ""}}'>
+    <div class="titleBox" id='Interviews-{{ work.order}}'>
         <div class="workTitle" id="{{work.order}}">
             <h2>{{ work.title }}</h2>
             <a href="{{work.publicationLink}}"><p>{{ work.publication }}</p></a>
