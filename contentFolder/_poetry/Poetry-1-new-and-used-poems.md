@@ -691,7 +691,7 @@ recites &emsp;&emsp;&emsp;&emsp; the Nicene Creed
 
 *before all ages*
 
-*God from God* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *Light from Light*
+*God from God* &emsp;&emsp;&emsp;&emsp; *Light from Light*
 
 <br><br>
 
@@ -751,4 +751,4 @@ I run his name over my lips
 
 my tongue a well-worn rosary
 
-Intoning &emsp;&emsp; Intoning &emsp;&emsp; Intoning
+Intoning &emsp; Intoning &emsp; Intoning
