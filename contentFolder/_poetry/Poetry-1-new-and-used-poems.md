@@ -366,3 +366,101 @@ with inky lips:
 Each word written— a joyous refusal
 
 <br><br>
+
+
+
+**Stagecraft**
+
+<br><br>
+
+(noun) *Def:*
+
+A definition &emsp;&emsp;&emsp;&emsp; OR
+
+an &emsp;&emsp;&emsp;&emsp; evasive &emsp;&emsp;&emsp;&emsp; maneuver
+
+a defiant assertion &emsp;&emsp; OR
+
+an attempt at the continuous
+
+,,,elision,,,
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; of oneself
+
+<br><br>
+
+
+
+I perform
+
+mostly to an audience of one
+
+because, unfortunately:
+
+\[&emsp;&emsp;&emsp;&emsp;] requires an audience.
+
+<br><br>
+
+
+
+I explicate myself
+
+“ I perform ” “ gyrations ” to the “ public ”
+
+linguistic stripteases draped in velour
+
+bending my tongue in contortionist knots
+
+I make &emsp;&emsp; &emsp;&emsp; ambiguity
+
+&emsp;&emsp; &emsp;&emsp;quiver
+
+like a dancer in the cage
+
+<br><br>
+
+
+
+beckoning mocking imploring
+
+like &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; onstage at the Globe
+
+the air:
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (horse manure, unwashed souls, chloroform, dung)
+
+I stand
+
+getting pelted by roses and occasionally
+
+spat upon
+
+by groundlings in the pit
+
+<br><br>
+
+
+
+if someone transitions in a forest:
+
+is it still a transition?
+
+is the univocal, uni-vocal affirmation
+
+of oneself —
+
+&emsp;&emsp;&emsp;&emsp; ululations in an open field
+
+&emsp;&emsp;&emsp;&emsp; a voice shaking the trees
+
+&emsp;&emsp;&emsp;&emsp; — enough?
+
+<br><br>
+
+
+
+could \[gender] just be a poem
+
+written to the wind?
+
+<br><br>
