@@ -357,7 +357,7 @@ Only to chose our thinest, paltriest
 
 Language. Returning to it, at first, like the jilted lover
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (with reluctance)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (with reluctance)
 
 but eventually greeting it
 
