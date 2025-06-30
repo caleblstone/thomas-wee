@@ -636,3 +636,119 @@ with so many
 ways of Forgetting
 
 <br><br>
+
+
+
+**in the garden of St. John**
+
+<br><br>
+
+
+
+this time of year with its
+
+multicolored silences
+
+makes me think of my Father
+
+\[who dies each spring]
+
+on Amsterdam leaves conspire
+
+on the pavement a haphazard mosaic
+
+makes light music in
+
+the chanting wind
+
+fall — a form of forgetting
+
+<br><br>
+
+
+
+in the garden of St. John the Divine
+
+a peacock
+
+admires itself
+
+contemplates &emsp;&emsp; the Problem of Evil
+
+recites &emsp;&emsp;&emsp;&emsp; the Nicene Creed
+
+<br><br>
+
+
+
+*I believe in* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *one LORD*
+
+*Jesus Christ, the Only*
+
+*Begotten Son*
+
+*of God born* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *of the Father*
+
+*before all ages*
+
+*God from God* &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *Light from Light*
+
+<br><br>
+
+
+
+I awaken to bells dripping
+
+from morning’s pipette
+
+each one a golden lozenge
+
+outside of the deli I see a man
+
+who looks JUST like &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; my Father
+
+who looks like the image of &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; my Father
+
+who looks like how I imagined &emsp;&emsp;&emsp;&emsp;&emsp; my Father
+
+who looks like someone’s image of &emsp;&emsp;&emsp;&emsp; the Father
+
+<br><br>
+
+
+
+*...consubstantial with the Father*
+
+*through him*
+
+*&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; all things were made*
+
+<br><br>
+
+
+
+under the portico, in the rain
+
+on the steps of the cathedral
+
+you teach me the names of the saints
+
+<br><br>
+
+
+
+*HE will come again in glory*
+
+*to judge the living and the dead*
+
+*and his kingdom will have no end*
+
+<br><br>
+
+
+
+I run his name over my lips
+
+my tongue a well-worn rosary
+
+Intoning &emsp;&emsp; Intoning &emsp;&emsp; Intoning
