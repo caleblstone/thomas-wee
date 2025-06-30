@@ -464,3 +464,151 @@ could \[gender] just be a poem
 written to the wind?
 
 <br><br>
+
+
+
+**A Flat Circle**
+
+<br><br>
+
+
+
+We too often speak of a person’s transition as a series of static, singular events:
+
+&emsp;&emsp;&emsp;&emsp; The Surgery
+
+&emsp;&emsp;&emsp;&emsp; The Coming Out
+
+&emsp;&emsp;&emsp;&emsp; The First Regiment of Hormones
+
+<br><br>
+
+
+
+This obscures the reality of transitioning as a prolonged, sustained act.
+
+A continuous reimagining of the self.
+
+<br><br>
+
+
+
+Similarly, people mark the changes in seasons with arbitrary events:
+
+&emsp;&emsp;&emsp;&emsp; The First Snow (the beginning of winter)
+
+&emsp;&emsp;&emsp;&emsp; The First Thaw (the beginning of spring)
+
+<br><br>
+
+
+
+In doing so, they neglect the fact that it was already winter, already spring. That somewhere along the way, through infinitesimal gradations, the seasons had shifted, gone unnoticed by the casual observer.
+
+<br><br>
+
+
+
+Or to put it into geometrical terms:
+
+&emsp;&emsp;&emsp;&emsp; A circle is made up of infinite points.
+
+<br><br>
+
+
+
+To isolate the beginning of someone’s transition is to attempt to find one point on the circle, a
+
+seam, where the circle begins and ends.
+
+<br><br>
+
+
+
+**The yellow settee**
+
+(2018)
+
+*After Gertrude Stein*
+
+<br><br>
+
+
+
+&emsp;&emsp;&emsp;&emsp; Fragment of her great-grandmother’s lost Lebanon. With curling feet & diasporic stains. Threadbare, we unlost it each evening. We sat and unfolded our legs double decker. Summer stank when We sweated the other. Breathless at the firstness of things. Dangling we were on the edge of shifting questions. Enthralled with ifs and with rarer because. Blushing at the nakedness of the sentence. The slow striptease of the mind. Fetid July up drifted her ever-present question of sex. Licking at our windows. But always enough for me was the talking. The embrace of that fleeting speculative We.
+
+<br><br>
+
+
+
+**Pomegranate**
+
+like some puckered fruit,
+
+a pomegranate perhaps
+
+this unreliable
+
+receptacle which we
+
+douse daily rinsing
+
+dimpled flesh
+
+in this daily stream
+
+we call Life.
+
+(how could we possibly expect it to hold it all?)
+
+each memory
+
+dislodges
+
+another.
+
+a seed. a pit.
+
+Rattle like
+
+teeth Spat
+
+into the sink
+
+I dreamed writing
+
+might stymie this
+
+Drip.
+
+so I wrote a temporary repair
+
+each day frantically
+
+duck-taping my vessel
+
+bursting as waters
+
+rising each day
+
+plugging.
+
+a hole. a word.
+
+I found I succeeded
+
+only in ( false )replication
+
+the coating of deadflesh
+
+\[in deaderwords]
+
+I became a master
+
+of taxidermy.
+
+we have been equipped
+
+with so many
+
+ways of Forgetting
