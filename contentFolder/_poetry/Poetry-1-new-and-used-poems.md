@@ -589,7 +589,7 @@ I dreamed writing
 
 might stymie this
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Drip.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Drip.
 
 <br><br>
 
@@ -623,7 +623,7 @@ the coating of deadflesh
 
 I became a master
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; of taxidermy.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; of taxidermy.
 
 <br><br>
 
