@@ -267,6 +267,6 @@ the same, nearly, as hearing your name
 
 spoken by the beloved
 
- **&emsp;**   (transcendence, signified)
+&emsp;(transcendence, signified)
 
 the effect of being held, momentarily naked&warm, in the lover’s mouth
