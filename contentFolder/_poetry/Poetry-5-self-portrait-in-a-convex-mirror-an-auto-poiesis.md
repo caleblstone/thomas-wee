@@ -144,6 +144,14 @@ placed the seed of                     a plump being
 
 <br><br>
 
+<br><br>
+
+<pre>
+
+</pre>
+
+<br><br>
+
 **Deva Eveland:** Could you describe in more detail how the GPT-2 program transformed the original writing?
 
 **Thomas Wee:** GPT is a highly advanced piece of Natural Language Processing software developed by OpenAI that allows a computer to generate highly human-like strings of text. I was using GPT-2 for this project, although a newer more sophisticated version, GPT-3 has already been developed. The software is basically a “black box” unless you have an extensive background in computer science. Luckily, for people like me with only a basic grasp of computer science, people have built programs that let you manipulate GPT without having to work directly with its innards. With GPT, you can give it any body of text and it will “learn” the characteristics of the writing and eventually be able to mimic it with a high degree of accuracy. It obviously has a lot of limitations, which I discovered when attempting to have it write prose in another part of the project, but the results it can produce are, I think, already incredibly generative and interesting.
