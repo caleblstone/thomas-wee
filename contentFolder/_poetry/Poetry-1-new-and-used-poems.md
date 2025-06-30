@@ -543,6 +543,8 @@ seam, where the circle begins and ends.
 
 **Pomegranate**
 
+<br><br>
+
 like some puckered fruit,
 
 a pomegranate perhaps
@@ -559,19 +561,27 @@ in this daily stream
 
 we call Life.
 
+<br><br>
+
+
+
 (how could we possibly expect it to hold it all?)
+
+<br><br>
+
+
 
 each memory
 
-dislodges
+&emsp;&emsp; *dislodges*
 
 another.
 
-a seed. a pit.
+a seed. &emsp;&emsp; a pit.
 
 Rattle like
 
-teeth Spat
+teeth &emsp;&emsp; Spat
 
 into the sink
 
@@ -579,7 +589,11 @@ I dreamed writing
 
 might stymie this
 
-Drip.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Drip.
+
+<br><br>
+
+
 
 so I wrote a temporary repair
 
@@ -593,7 +607,11 @@ rising each day
 
 plugging.
 
-a hole. a word.
+a hole. &emsp;&emsp;&emsp;&emsp; a word.
+
+<br><br>
+
+
 
 I found I succeeded
 
@@ -605,10 +623,16 @@ the coating of deadflesh
 
 I became a master
 
-of taxidermy.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; of taxidermy.
+
+<br><br>
+
+
 
 we have been equipped
 
 with so many
 
 ways of Forgetting
+
+<br><br>
