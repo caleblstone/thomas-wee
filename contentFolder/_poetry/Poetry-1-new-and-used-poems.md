@@ -231,7 +231,7 @@ as it dribbles
 
 &emsp;&emsp;&emsp;&emsp; out
 
-&emsp;&emsp;dactyls // spondees // syllables
+&emsp;&emsp; dactyls // spondees // syllables
 
 twitching out my name which you 
 
