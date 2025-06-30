@@ -217,21 +217,21 @@ culture neutered+*naturalized*
 
 to a grey death
 
+<br>
+
 \[if my family gave me a Chinese name it was never written down] 
 
 <br>
 
 call it genealogy,
 
-<br>
-
 traced through the contours of your tongue 
 
 as it dribbles
 
-<span>out
+&emsp;&emsp;&emsp;&emsp;out
 
-dactyls // spondees // syllables
+&emsp;&emsp;dactyls // spondees // syllables
 
 twitching out my name which you 
 
