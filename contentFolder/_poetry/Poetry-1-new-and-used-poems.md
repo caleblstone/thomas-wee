@@ -279,23 +279,27 @@ the effect of being held, momentarily naked&warm, in the lover’s mouth
 
 *“whereof one cannot speak, thereof one must be silent”* *— Ludwig Wittgenstein*
 
-<br>
+<br><br>
 
-<br>
+
 
 I climb daily
 
-in the crater of language
+&emsp;&emsp;&emsp;&emsp; in the crater of language
 
 Desiring sentences that are like
 
 shafts of light
 
-cutting through densest fog
+cutting &emsp;&emsp; through densest fog
 
-Words hard & razor sharp
+Words hard &emsp;&emsp; & &emsp;&emsp; razor &emsp;&emsp; sharp
 
-like iron — hot from the anvil.
+like iron — &emsp;&emsp; hot from the anvil.
+
+<br><br>
+
+
 
 Instead, I worry my molars
 
@@ -307,6 +311,10 @@ Speech, acting
 
 (and all of us the poorest players)
 
+<br><br>
+
+
+
 Silence is always an option — yes
 
 But muteness its own kind of speech
@@ -314,6 +322,10 @@ But muteness its own kind of speech
 And most of us do not have
 
 The fortitude for silence
+
+<br><br>
+
+
 
 So instead each day
 
@@ -327,7 +339,11 @@ and wade in
 
 to dip my net
 
-into the Great Stream of Utterances
+&emsp;&emsp;&emsp;&emsp; into the Great Stream of Utterances
+
+<br><br>
+
+
 
 Each poet has considered silence.
 
@@ -339,10 +355,12 @@ Only to chose our thinest, paltriest
 
 Language. Returning to it, at first, like the jilted lover
 
-(with reluctance)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; (with reluctance)
 
 but eventually greeting it
 
 with inky lips:
 
 Each word written— a joyous refusal
+
+<br><br>
