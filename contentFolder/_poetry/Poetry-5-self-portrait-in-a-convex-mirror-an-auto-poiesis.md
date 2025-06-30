@@ -68,10 +68,78 @@ LEAVE.
 
 <br><br>
 
+**The Ancestors of China**
+
 <br><br>
 
 <pre>
+placed the seed of                     a plump being
+            Grows ——
+            pale anchored              like the rest of
+            the earth’s
+            floors
+            amid cornflowers
+            rising,
+            watching the fields
+            watching dawn
+            watching the sky
+            watching dawn
+            watching from the East
+                                      the Father
+            Hearts arise
+            Suddenly,
+                         from the Father
+            From the Father,
+            Hearts come
+                         From the Mother,
+            Evening is about to begin
+                         Light matures
+            Suddenly,
+            from the Father,
+            Approach.
+                         Our very being
+                                adapted for living
+                         technocephaly.
+                         Our haphazard
+                               structure [feuds]
+                                             three
+                                       momentarily
+                                       closed-books
+            can we even begin ?
+                         could we possibly
+                         could we?
+                         could it ever occur
+                         ever
+                         ever     itself
+                         null     collection
+                         of little
+                         momentarily               rippling ripples
+                                            notes
+                                     howling breath
+                                     ale breathless
+                                     contemplates               the Problem of Evil
+            Beside                           you,                 a plump being
+                        Grows ——
+            pregnant
+            of clear,                          sight
+                        Grows,
+                        we learn
+                        how
+                        makes sense
+                        is broken
 
+                        can
+                        an adequate
+                        fertile
+                        small
+                        void
+                        I climb
+                                    to the top
+                                    of the Everglades
+
+                        among the Father
+                        among the Mother
+                        of the Holy Spirit
 </pre>
 
 <br><br>
