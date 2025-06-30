@@ -234,21 +234,39 @@ as it dribbles
 dactyls // spondees // syllables
 
 twitching out my name which you 
+
 whisper into my spine
+
 <br>
+
 hold it in your lips and feel it rise 
+
 somewhere in your gullet,bristling,
+
 near the sternum.
+
 A viscous sound / a raised fist
+
 like Adam, you point and name things 
+
 making word flesh
+
 <br>
+
 someone said
+
 that the body is our first language
+
 the fetus in the womb, a floating signifier
+
 <br>
+
 Or maybe to be seen
+
 the same, nearly, as hearing your name 
+
 spoken by the beloved
-    (transcendence, signified)
+
+\    (transcendence, signified)
+
 the effect of being held, momentarily naked&warm, in the lover’s mouth
