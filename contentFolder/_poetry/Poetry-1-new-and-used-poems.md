@@ -229,7 +229,7 @@ traced through the contours of your tongue
 
 as it dribbles
 
-&emsp;&emsp;&emsp;&emsp;out
+&emsp;&emsp;&emsp;&emsp; out
 
 &emsp;&emsp;dactyls // spondees // syllables
 
