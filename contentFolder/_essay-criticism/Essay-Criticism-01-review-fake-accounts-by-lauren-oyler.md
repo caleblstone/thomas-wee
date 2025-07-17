@@ -1,6 +1,6 @@
 ---
 order: 1
-title: "Review: Fake Accounts by Lauren Oyler"
+title: Fake Accounts by Lauren Oyler (Review)
 publication: The Columbia Review
 publicationLink: https://columbiareviewmag.com/2021/04/review-fake-accounts-by-lauren-oyler/
 dateString: April 2021
