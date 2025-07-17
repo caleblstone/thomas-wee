@@ -6,6 +6,8 @@ publicationLink: https://www.ekphrasismagazine.com/issues.html
 ---
 *These five haiku were written by a computer program which was trained on a corpus of poems by the 17th century Japanese Haiku master Bashō.* 
 
+<br>
+
 1
 
 evening morning 
