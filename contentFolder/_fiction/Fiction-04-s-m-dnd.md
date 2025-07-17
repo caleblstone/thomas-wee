@@ -1,5 +1,5 @@
 ---
-order: 4
+order: 5
 title: S&M, DND
 publication: "Pony Express: Issue 1"
 publicationLink: https://ponyexpressmag.com/issue-1-3
