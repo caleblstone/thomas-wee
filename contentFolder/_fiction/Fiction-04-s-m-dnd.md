@@ -2,7 +2,7 @@
 order: 4
 title: S&M, DND
 publication: "Pony Express: Issue 1"
-publicationLink: https://ponyexpressmag.com/
+publicationLink: https://ponyexpressmag.com/issue-1-3
 dateString: August 2024
 printOnly: true
 ---
