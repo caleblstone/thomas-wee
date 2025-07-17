@@ -1,5 +1,5 @@
 ---
-order: 6
+order: 7
 title: "“Mourning Rites” and “Love: A Brief History”"
 publication: Suspect Journal
 publicationLink: https://singaporeunbound.org/suspect-journal/2022/12/30/mourning-rites-and-love-a-brief-history
