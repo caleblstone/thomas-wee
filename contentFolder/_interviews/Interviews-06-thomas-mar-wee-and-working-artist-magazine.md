@@ -1,5 +1,5 @@
 ---
-order: 7
+order: 8
 title: "Writing Beyond the Masterpiece: Thomas Mar Wee On Embodying the
   Unromantic Writer"
 publication: Working Artist Magazine
