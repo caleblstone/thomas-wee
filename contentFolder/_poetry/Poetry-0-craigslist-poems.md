@@ -3,6 +3,7 @@ order: -1
 title: Craigslist Poems
 publication: Ekphrasis Magazine - Issue 1
 publicationLink: https://www.ekphrasismagazine.com/issues.html
+dateString: "2020"
 ---
 
 
