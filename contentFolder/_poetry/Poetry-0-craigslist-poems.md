@@ -2,7 +2,7 @@
 order: -1
 title: Craigslist Poems
 publication: Ekphrasis Magazine - Issue 1
-publicationLink: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ekphrasismagazine.com/uploads/1/2/6/8/126811601/ekphrasis_1_web.pdf
+publicationLink: https://www.ekphrasismagazine.com/issues.html
 ---
 
 
