@@ -3,7 +3,7 @@ order: 5
 title: Five Haiku
 publication: Ekphrasis Magazine - Issue 2
 publicationLink: https://www.ekphrasismagazine.com/issues.html
-dateString: Spring 2020
+dateString: "2021"
 ---
 *These five haiku were written by a computer program which was trained on a corpus of poems by the 17th century Japanese Haiku master Bashō.* 
 
