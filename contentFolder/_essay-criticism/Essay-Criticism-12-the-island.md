@@ -1,6 +1,6 @@
 ---
 order: 12
-title: The Island (Review)
+title: The Island by Antigone Kefala (Review)
 publication: Necessary Fiction
 publicationLink: https://necessaryfiction.com/reviews/the-island/
 ---
