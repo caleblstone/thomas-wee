@@ -1,5 +1,5 @@
 ---
-order: 2
+order: 3
 title: A Peacock in the Loggia
 publication: Surgam
 publicationLink: https://surgamspring2021.wordpress.com/
