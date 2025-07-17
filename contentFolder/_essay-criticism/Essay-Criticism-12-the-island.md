@@ -1,6 +1,6 @@
 ---
 order: 12
-title: "Review: The Island"
+title: The Island (Review)
 publication: Necessary Fiction
 publicationLink: https://necessaryfiction.com/reviews/the-island/
 ---
