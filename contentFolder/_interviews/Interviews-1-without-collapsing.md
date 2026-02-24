@@ -1,5 +1,5 @@
 ---
-order: 1
+order: 7
 title: "Without Collapsing "
 publication: Culturebot
 publicationLink: https://www.culturebot.org/2026/02/103662/without-collapsing/
