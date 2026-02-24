@@ -3,6 +3,7 @@ order: 12
 title: The Island by Antigone Kefala (Review)
 publication: Necessary Fiction
 publicationLink: https://necessaryfiction.com/reviews/the-island/
+dateString: July 2025
 ---
 The past endures. A major theme of the work of the late Australian poet, novelist, and diarist Antigone Kefala, the past’s inescapability is at the fore of her early novel *The Island*, published in 1984 and recently reissued by Transit Books. This edition, with an introduction by the novelist Madeline Watts, provides a long-overdue introduction to a unique and under-recognized writer.
 
